@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2050" height="780" viewBox="0 0 2050 780">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Áåçûìÿííûé_ãðàäèåíò_197);
+      }
+    </style>
+    <linearGradient id="Áåçûìÿííûé_ãðàäèåíò_197" data-name="Áåçûìÿííûé ãðàäèåíò 197" x1="-1.07" y1="354.97" x2="2048.93" y2="354.97" gradientTransform="translate(2050.19 757.29) rotate(179.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed2586"/>
+      <stop offset="1" stop-color="#4f479d"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M2051.16,23.62c-169,310.84-332.44,393.39-451.54,410.46-289.94,41.56-495.33-279.38-756-177.49-128.29,50.14-135.91,150-300,187.25-149.11,33.85-216.93-32.45-324,9.65C149.54,481,59.71,556.17,1.27,781.32l2050-.3Z"/>
+</svg>
