@@ -1,7 +1,6 @@
-- 🎓 I’m currently studying Computer Science at NIBM
-- 🌱 I’m currently learning JavaScript.
+- 🎓 Computer Science Undergraduate.
+- 🌱 Web Designer/ Developer 
 - :art: Part time Graphic Designer.
-- :musical_note: I love to hear EDM.
 
 
 ### Let's Connect :coffee:
