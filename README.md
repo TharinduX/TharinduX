@@ -1,5 +1,5 @@
-- 🎓 Computer Science Undergraduate.
-- 🌱 Web Designer/ Developer 
+- 🎓 Computer Science Graduate.
+- 🌱 Fullstack Engineer 
 - :art: Part time Graphic Designer.
 
 
